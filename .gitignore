@@ -1,0 +1,4 @@
+# Using slashes a) at start and at end, b) at start only, or c) none
+/target/
+/test-output
+drivers

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite thread-count="2" parallel="tests" name="Suite">
+	<test
+		name="ChromeTestWin11-1">
+		<classes>
+				<!--
+					<parameter name="url" value="https://rahulshettyacademy.com/seleniumPractise/#/" />
+					<parameter name="browserName" value="edge" />
+				-->
+				<class name="TestRunner.TestNGTestRunner" />
+		</classes>
+	</test>
+</suite>
